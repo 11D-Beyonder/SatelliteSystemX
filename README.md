@@ -1,6 +1,6 @@
 # SatelliteSystemX
 
-简单的卫星系统Demo。
+简单的卫星系统Demo，貌似只有编译为x86才能运行所有功能。
 
 古早项目，基于**MFC**，需要自行安装 TeeChart 控件。
 
