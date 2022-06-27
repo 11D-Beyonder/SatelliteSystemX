@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SatelliteSystemX.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SatelliteSystemXDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CProgressDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CLocation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CCircle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlane.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTimeWindowDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTChart_TimeWindow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CSeries.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CGanttSeries.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CArea.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GreatFinderDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTChart_GreatFinder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTChart_CoverageProportion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CCoverageAreaDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CCoverageProportionDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SatelliteSystemX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SatelliteSystemXDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CProgressDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CLocation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CCircle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlane.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CTimeWindowDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CTChart_TimeWindow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CArea.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GreatFinderDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CTChart_GreatFinder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CTChart_CoverageProportion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CCoverageProportionDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CCoverageAreaDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SatelliteSystemX.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\SatelliteSystemX.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\SatelliteSystemX.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\head.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bigHead.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bigbigHead.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
